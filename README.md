@@ -50,7 +50,7 @@ LOCK의 종류와 개념
 
 배열과 리스트
 
-[트리 자료구조란](https://mommoo.tistory.com/95).
+[트리 자료구조란](https://mommoo.tistory.com/95)
 
 이진 탐색 트리란
 
