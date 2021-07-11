@@ -52,7 +52,7 @@ LOCK의 종류와 개념
 
 [트리 자료구조란](https://mommoo.tistory.com/95)
 
-이진 탐색 트리란
+[이진 탐색 트리란](https://mommoo.tistory.com/97)
 
 B 트리란
 
