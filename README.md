@@ -2,7 +2,7 @@
 ## OS
 [프로세스란](https://mommoo.tistory.com/104)
 
-멀티 프로세스와 멀티 스레드의 차이점
+[멀티 프로세스와 멀티 스레드의 차이점](https://mommoo.tistory.com/105)
 
 CPU 스케줄링 이란
 
