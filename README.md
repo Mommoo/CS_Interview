@@ -59,7 +59,7 @@ B 트리란
 해시 테이블이란
 
 ## Network
-OSI 7계층이란
+[OSI 7계층이란](https://mommoo.tistory.com/107)
 
 TCP와 UDP의 차이
 
