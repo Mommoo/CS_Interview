@@ -52,7 +52,7 @@ LOCK의 종류와 개념
 
 [이진 탐색 트리란](https://mommoo.tistory.com/97)
 
-B 트리란
+[B 트리란](https://mommoo.tistory.com/108)
 
 이진 힙이란
 
