@@ -67,6 +67,8 @@ TCP의 3-way, 4-way handshaking
 
 ARP란
 
+[REST API란?](https://mommoo.tistory.com/110)
+
 [HTTPS 프로토콜](https://mommoo.tistory.com/103)
 
 HTTPS 1.1 과 HTTP 2에 대해서
